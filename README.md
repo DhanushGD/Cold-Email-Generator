@@ -117,6 +117,8 @@ streamlit run main.py
 ```bash
 streamlit run main.py
 ```
+![image](https://github.com/user-attachments/assets/192edbdc-f870-4a7b-9106-43fc18712c9a)
+
 
 ## 🖼️ **Usage**
 
