@@ -124,13 +124,15 @@ streamlit run main.py
 Here’s a brief overview of how the **Cold Email Generator** works, with screenshots of the web interface in action:
 
 ### 1. **Enter a Job URL from carrers page of the comapany**
-Users input the job listing URL they want to generate an email for. This initiates the scraping and extraction process.
-![alt text](image.png)
-and press submit.
+Users input the job listing URL they want to generate an email for. This initiates the scraping and extraction process
+![Screenshot 2025-02-02 231534](https://github.com/user-attachments/assets/b2453e72-8e2e-419d-8ca8-92d5ab783e43)
+Give the link from company's carrer page and press submit.
 
 ### 2. **Generated Cold Email**
 The AI generates a personalized cold email using the extracted job data and relevant portfolio links.
-![alt text](image-1.png)
+![Uploading Screenshot 2025-02-02 231620.png…]()
+
+
 
 
 
