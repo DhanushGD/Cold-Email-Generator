@@ -67,7 +67,6 @@ The **Cold Email Generator** uses **Generative AI** and **Large Language Models 
 - Scalable deployment ensures smooth performance even as the platform grows, with built-in security in the email generation process.
 
 ### 🌐 **Local and Cloud Deployment**
-- Local deployment with Docker ensures seamless development and testing.
 - Cloud hosting on **AWS EC2** ensures public accessibility and availability worldwide.
 
 ## 🛠️ **Tech Stack**
@@ -130,7 +129,8 @@ Give the link from company's carrer page and press submit.
 
 ### 2. **Generated Cold Email**
 The AI generates a personalized cold email using the extracted job data and relevant portfolio links.
-![Uploading Screenshot 2025-02-02 231620.png…]()
+![Screenshot 2025-02-02 231620](https://github.com/user-attachments/assets/4c326714-6e93-4b71-84ae-ba4f8363d90a)
+
 
 
 
